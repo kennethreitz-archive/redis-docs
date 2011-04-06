@@ -1,9 +1,6 @@
-`|Redis Documentation| <index.html>`_
-**HashCommandsSidebar: Contents**
-HashCommandsSidebar
-===================
 
-ï»¿== Hash Commands ==
+
+== Hash Commands ==
 
 -  `HSET <HsetCommand.html>`_
 -  `HGET <HgetCommand.html>`_

@@ -1,11 +1,3 @@
-`|Redis Documentation| <index.html>`_
-**BgsaveCommand: Contents**
-  `BGSAVE <#BGSAVE>`_
-    `Return value <#Return%20value>`_
-BgsaveCommand
-=============
-
-ï»¿#sidebar `ControlCommandsSidebar <ControlCommandsSidebar.html>`_
 BGSAVE
 ======
 

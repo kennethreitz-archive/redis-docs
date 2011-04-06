@@ -1,9 +1,3 @@
-`|Redis Documentation| <index.html>`_
-**Credits: Contents**
-  `Credits <#Credits>`_
-Credits
-=======
-
 Credits
 =======
 

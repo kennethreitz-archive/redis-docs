@@ -1,12 +1,7 @@
-`|Redis Documentation| <index.html>`_
-**AppendCommand: Contents**
-  `APPEND \_key\_ \_value\_ <#APPEND%20_key_%20_value_>`_
-    `Return value <#Return%20value>`_
-    `Examples <#Examples>`_
 AppendCommand
 =============
 
-ï»¿#sidebar `StringCommandsSidebar <StringCommandsSidebar.html>`_
+
 APPEND \_key\_ \_value\_
 ========================
 
@@ -21,6 +16,8 @@ Return value
 
 `Integer reply <ReplyTypes.html>`_, specifically the total length
 of the string after the append operation.
+
+
 Examples
 --------
 

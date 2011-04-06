@@ -1,15 +1,3 @@
-`|Redis Documentation| <index.html>`_
-**AppendOnlyFileHowto: Contents**
-  `Append Only File HOWTO <#Append%20Only%20File%20HOWTO>`_
-    `General Information <#General%20Information>`_
-    `Log rewriting <#Log%20rewriting>`_
-    `Wait... but how does this work? <#Wait...%20but%20how%20does%20this%20work?>`_
-    `How durable is the append only file? <#How%20durable%20is%20the%20append%20only%20file?>`_
-    `What should I do if my Append Only File gets corrupted? <#What%20should%20I%20do%20if%20my%20Append%20Only%20File%20gets%20corrupted?>`_
-AppendOnlyFileHowto
-===================
-
-ï»¿#sidebar `RedisGuides <RedisGuides.html>`_
 Append Only File HOWTO
 ======================
 

@@ -1,12 +1,4 @@
-`|Redis Documentation| <index.html>`_
-**AuthCommand: Contents**
-  `AUTH \_password\_ <#AUTH%20_password_>`_
-    `Return value <#Return%20value>`_
-AuthCommand
-===========
 
-ï»¿#sidebar
-`ConnectionHandlingSidebar <ConnectionHandlingSidebar.html>`_
 AUTH \_password\_
 =================
 

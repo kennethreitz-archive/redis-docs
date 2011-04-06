@@ -1,11 +1,4 @@
-`|Redis Documentation| <index.html>`_
-**BgrewriteaofCommand: Contents**
-      `BGREWRITEAOF <#BGREWRITEAOF>`_
-    `Return value <#Return%20value>`_
-BgrewriteaofCommand
-===================
 
-ï»¿#sidebar `ControlCommandsSidebar <ControlCommandsSidebar.html>`_
 BGREWRITEAOF
 ~~~~~~~~~~~~
 
